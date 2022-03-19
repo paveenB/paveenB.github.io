@@ -12,7 +12,7 @@ In order to search please fill in the filters on the left side of the webpage.  
 
 ![This is an image](https://github.com/paveenB/UFOs/blob/main/static/images/ScreenShot3.png)
 
-##Please see the link below to access the webpage:
+## Access to the webpage:
 
 [GitHub Pages](https://paveenb.github.io/UFOs)
 
