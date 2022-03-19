@@ -14,7 +14,7 @@ In order to search please fill in the filters on the left side of the webpage.  
 
 ## Access to the webpage:
 
-[UFO Sightings!](https://paveenb.github.io/UFOs)
+Link: [UFO Sightings!](https://paveenb.github.io/UFOs)
 
 ## Summary
 
